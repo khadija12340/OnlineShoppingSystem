@@ -1,0 +1,8 @@
+Login Details For User :
+
+Username : user@chenone.com
+Password : user
+
+For Admin :
+User Name : admin
+Password : Test@123
